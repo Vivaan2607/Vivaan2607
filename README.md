@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<img src ="social_dashboard" align = "left" width = 50%>
+<img src ="https://github.com/Vivaan2607/Vivaan2607/blob/main/social_dashboard.svg" align = "left" width = 50%>
 
   <a href="https://www.linkedin.com/in/vivaan-rawther-23baab21b/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
