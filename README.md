@@ -7,6 +7,17 @@
 
 <p><img align="center" src="https://github.com/Vivaan2607/Vivaan2607/blob/main/thumbsup.gif" alt="adam-pw" /></p>
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+
+- 🌱 I’m currently learning Web Development and other programming languages
+
+- 📫 How to reach me **rawthervivaan@gmail.com**
+
+- ⚡ Fun fact :- Food and Gym🎵 are the reasons to live.
+
+<br>
+
 
 [![Vivaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivaan2607&show_icons=true&theme=radical)](https://github.com/Vivaan2607/github-readme-stats)
 
