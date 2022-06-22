@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **rawthervivaan@gmail.com**
 
-- ⚡ Fun fact :- Food and Gym🎵 are the reasons to live.
+- ⚡ Fun fact :- Food and Gym💪 are the reasons to live.
 
 <br>
 
