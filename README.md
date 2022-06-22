@@ -75,10 +75,8 @@
 <br>
 
 
-![snake gif](https://raw.githubusercontent.com/Vivaan2607/Vivaan2607/output/github-contribution-grid-snake.svg)
-
-
-
+## Just a Snake 🐍 Eating away my Contributions...😭
+![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
 
 <!---
 Vivaan2607/Vivaan2607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
