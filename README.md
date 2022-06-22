@@ -7,8 +7,6 @@
 
 <p><img align="center" src="https://github.com/Vivaan2607/Vivaan2607/blob/main/thumbsup.gif" alt="adam-pw" /></p>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
