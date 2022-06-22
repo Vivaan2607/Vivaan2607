@@ -5,12 +5,15 @@
 - 📫 How to reach me ...@vivaan__rawther
 
 
+<p><img align="right" src="https://github.com/Vivaan2607/Vivaan2607/blob/main/thumbsup.gif" alt="adam-pw" /></p>
+
+
 [![Vivaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivaan2607&show_icons=true&theme=radical)](https://github.com/Vivaan2607/github-readme-stats)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vivaan2607&layout=radical)](https://github.com/Vivaan2607/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vivaan2607&theme=radical)](https://github.com/Vivaan2607/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivaan2607&layout=radical)](https://github.com/Vivaan2607/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivaan2607&theme=radical)](https://github.com/Vivaan2607/github-readme-stats)
 
 
 
