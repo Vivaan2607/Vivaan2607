@@ -18,6 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+<img src ="social_dashboard" align = "left" width = 50%>
+
   <a href="https://www.linkedin.com/in/vivaan-rawther-23baab21b/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a> 
@@ -68,6 +71,12 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vivaan2607&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Vivaan2607" /></p>
+
+<br>
+
+
+![snake gif](https://raw.githubusercontent.com/Vivaan2607/Vivaan2607/output/github-contribution-grid-snake.svg)
+
 
 
 
