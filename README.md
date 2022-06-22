@@ -16,7 +16,7 @@
 
 <br>
 
-<h3 align="right">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 
 <img src ="https://github.com/Vivaan2607/Vivaan2607/blob/main/social_dashboard.svg" align = "left" width = 50%>
