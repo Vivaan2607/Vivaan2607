@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @Vivaan2607
-- 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...cse at vit
-- 💞️ I’m looking to collaborate on ...web dev for gaining experience
-- 📫 How to reach me ...@vivaan__rawther
 
 <h1 align="center">Hi 👋, I'm Vivaan Rawther</h1>
 <h3 align="center">Student at VIT, Vellore🌟.</h3>
